@@ -1,0 +1,12 @@
+# Логи
+logs/
+
+# Кэш python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+ai_bot_env/
+
+# Конфиг с токенами
+config.json
